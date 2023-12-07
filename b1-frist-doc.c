@@ -2,5 +2,6 @@
 void B1(){
 
     printf("b1fun");
+    printf("b1fun2");
     return;
 }
